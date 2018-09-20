@@ -1,0 +1,20 @@
+{
+  "name": "paper-pagination",
+  "description": "Pagination for selecting which page of results to display.",
+  "main": "paper-pagination.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lcahlander/paper-pagination.git"
+  },
+  "dependencies": {
+    "@polymer/paper-item": "github:PolymerElements/paper-item",
+    "@polymer/paper-listbox": "github:PolymerElements/paper-listbox",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
