@@ -1,6 +1,8 @@
 {
   "name": "paper-pagination",
+  "version": "1.0.0",
   "description": "Pagination for selecting which page of results to display.",
+  "author": "Loren Cahlander",
   "main": "paper-pagination.js",
   "license": "MIT",
   "repository": {
